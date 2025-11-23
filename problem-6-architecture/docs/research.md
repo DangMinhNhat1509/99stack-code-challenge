@@ -10,7 +10,7 @@ This file contains references and notes used to design the scoreboard service.
 2. **Redis caching**
 
    - Using Redis Sorted Set for Top N leaderboard
-   - [Redis Sorted Sets Documentation](https://redis.io/docs/data-types/sorted-sets/)
+   - [Redis Sorted Sets Documentation](https://redis.io/docs/latest/develop/data-types/sorted-sets/)
 
 3. **PostgreSQL usage**
 
